@@ -15,12 +15,12 @@ Pickling and Structured Error Handling
 ###Pickling in Python
 	As defined by many online sources, pickling “serializes” the intended object first before writing it to a file. It is the method used to convert a python object such as a list or dictionary into a character stream, which will contain all the information needed to put the object or information back together in another python script.
 
-Source: (https://www.geeksforgeeks.org/understanding-python-pickling-example/)
+Source: [GeeksforGeeks.org](https://www.geeksforgeeks.org/understanding-python-pickling-example/)
 
 ###Structured Error Handling
 	Structured error handling is a great way to define and identify errors as objects. Python by default as some set up. These errors can assist in identifying reasons a script is not running as expected. In addition, this also allows the script writer to define their own error types. For example, in the script created in this assignment, a range of numbers was used. When the person running the script inputs a number outside the defined range, however, an error will show, telling the user to input a number inside that range. 
 
-Source: (https://docs.progress.com/bundle/openedge-abl-error-handling-117/page/What-is-structured-error-handling.html#:~:text=Structured%20error%20handling%20is%20an,your%20own%20error%20types%20(classes)
+Source: [Progress.com](https://docs.progress.com/bundle/openedge-abl-error-handling-117/page/What-is-structured-error-handling.html#:~:text=Structured%20error%20handling%20is%20an,your%20own%20error%20types%20(classes)
 
 ##Creating the Program
 
