@@ -1,12 +1,12 @@
 # Module07 Website
 
-Johnathan Luu
-Intro to Python
-Assignment 07
-5/24/2022
-[GitHub](www.github.com/LofiLogan)
-
-#Pickling and Structured Error Handling
+Johnathan Luu\
+Intro to Python\
+Assignment 07\
+5/24/2022\
+[GitHub](www.github.com/LofiLogan)\
+\
+#Pickling and Structured Error Handling\
 
 
 
