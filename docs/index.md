@@ -2,6 +2,34 @@
 
 Johnathan Luu
 Intro to Python
+Assignment 07
+5/24/2022
+[GitHub](www.github.com/LofiLogan)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Module07 Website
+
+Johnathan Luu
+Intro to Python
 Assignment 7
 5/24/2022
 [https://github.com/LofiLogan](https://github.com/LofiLogan)
