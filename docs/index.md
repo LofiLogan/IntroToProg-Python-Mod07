@@ -30,7 +30,7 @@ Structured error handling is a great way to define and identify errors as object
 
 The example of pickling in this script is shown by a function created to write to a file in binary, as well as a second function used to read the information from the file.
 
-![Figure 1](/docs/Picture1.png)
+![Figure 1](https://github.com/LofiLogan/IntroToProg-Python-Mod07/blob/main/docs/Picture1.png?raw=true)
 
 ### Exception Error Handling:
 
