@@ -6,6 +6,8 @@ Assignment 07
 5/24/2022
 [GitHub](www.github.com/LofiLogan)
 
+Pickling and Structured Error Handling
+![image](https://user-images.githubusercontent.com/104462632/171412626-180c11f9-a63e-4f0c-9ca1-5094395d2e25.png)
 
 
 
