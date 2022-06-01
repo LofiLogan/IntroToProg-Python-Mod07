@@ -4,7 +4,7 @@ Johnathan Luu\
 Intro to Python\
 Assignment 07\
 5/24/2022\
-[GitHub](www.github.com/LofiLogan)\
+[GitHub](www.github.com/LofiLogan)
 
 # Pickling and Structured Error Handling 
 
@@ -16,7 +16,7 @@ Pickling and structured error handling were the main focus of this week’s modu
 
 As defined by many online sources, pickling “serializes” the intended object first before writing it to a file. It is the method used to convert a python object such as a list or dictionary into a character stream, which will contain all the information needed to put the object or information back together in another python script.\
 
-[GeeksforGeeks.org](https://www.geeksforgeeks.org/understanding-python-pickling-example/)\
+[GeeksforGeeks.org](https://www.geeksforgeeks.org/understanding-python-pickling-example/)
 
 
 
