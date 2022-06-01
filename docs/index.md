@@ -5,12 +5,18 @@ Intro to Python\
 Assignment 07\
 5/24/2022\
 [GitHub](www.github.com/LofiLogan)\
- \
-# Pickling and Structured Error Handling \
- \
-## Intro \
- \
+
+# Pickling and Structured Error Handling 
+
+## Intro 
+
 Pickling and structured error handling were the main focus of this week’s module. Simply put, pickling is the process of converting information into byte or binary form. Exception handling can be used in many ways. At the simplest level, the Python language has some exceptions implemented into the system by default to pick out specific errors the script may run across. However, exception handling also becomes more customized when the script writer creates custom exceptions if the script performs a certain way outside the parameters of what is expected. \
+
+### Pickling in Python
+
+As defined by many online sources, pickling “serializes” the intended object first before writing it to a file. It is the method used to convert a python object such as a list or dictionary into a character stream, which will contain all the information needed to put the object or information back together in another python script.\
+
+[GeeksforGeeks.org](https://www.geeksforgeeks.org/understanding-python-pickling-example/)\
 
 
 
