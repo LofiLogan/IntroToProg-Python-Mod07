@@ -40,10 +40,10 @@ Exception Error Handling is show in this script, first with a custom exception c
 
 It is followed later in the script by a try except that defines the situation in which a RangeError() will be activated. After the conditions are defined, the errors also have to be decided how they will appear on the screen in the situation that they are raised. 
 
-![Figure 3](/docs/Picture3.png)
+![Figure 3](https://github.com/LofiLogan/IntroToProg-Python-Mod07/blob/main/docs/Picture3.png?raw=true)
 
 ## Results
 
-![Figure 4](/docs/Picture4.png)
+![Figure 4](https://github.com/LofiLogan/IntroToProg-Python-Mod07/blob/main/docs/Picture4.png?raw=true)
 
-![Figure 5](/docs/Picture5.png)
+![Figure 5](https://github.com/LofiLogan/IntroToProg-Python-Mod07/blob/main/docs/Picture5.png?raw=true)
