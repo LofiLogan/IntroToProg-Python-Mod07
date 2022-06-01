@@ -2,9 +2,9 @@
 
 Johnathan Luu
 Intro to Python
-Assignment 7
+Assignment 07
 5/24/2022
-https://github.com/LofiLogan/
+https://github.com/LofiLogan
 
 
 Pickling and Structured Error Handling
