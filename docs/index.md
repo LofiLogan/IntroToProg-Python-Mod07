@@ -36,14 +36,14 @@ The example of pickling in this script is shown by a function created to write t
 
 Exception Error Handling is show in this script, first with a custom exception called ‘RangeError’, which will show if the user. Inputs a number outside the given range. 
 
-![Figure 2](/docs/Picture2.png)
+![Figure 2](/docs/Picture2.png = 250x)
 
 It is followed later in the script by a try except that defines the situation in which a RangeError() will be activated. After the conditions are defined, the errors also have to be decided how they will appear on the screen in the situation that they are raised. 
 
-![Figure 3](/docs/Picture3.png)
+![Figure 3](/docs/Picture3.png = 250x)
 
 ## Results
 
-![Figure 4](/docs/Picture4.png)
+![Figure 4](/docs/Picture4.png = 250x)
 
-![Figure 5](/docs/Picture5.png)
+![Figure 5](/docs/Picture5.png = 250x)
