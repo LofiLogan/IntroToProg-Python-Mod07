@@ -24,33 +24,26 @@ Structured error handling is a great way to define and identify errors as object
 
 [Progress.com](https://docs.progress.com/bundle/openedge-abl-error-handling-117/page/What-is-structured-error-handling.html#:~:text=Structured%20error%20handling%20is%20an,your%20own%20error%20types%20)
 
+## Creating the Program
 
+### Pickling: 
 
+The example of pickling in this script is shown by a function created to write to a file in binary, as well as a second function used to read the information from the file.
 
-
-
-
-
-
-
-
-
-
-
-
-
-Source:  [Progress.com] (https://docs.progress.com/bundle/openedge-abl-error-handling-117/page/What-is-structured-error-handling.html#:~:text=Structured%20error%20handling%20is%20an,your%20own%20error%20types%20(classes)
-
-##Creating the Program
-
-###Pickling: 
-	The example of pickling in this script is shown by a function created to write to a file in binary, as well as a second function used to read the information from the file.
 !(https://github.com/LofiLogan/IntroToProg-Python-Mod07/blob/main/docs/Picture1.png)
-###Exception Error Handling:
-	Exception Error Handling is show in this script, first with a custom exception called ‘RangeError’, which will show if the user. Inputs a number outside the given range. 
+
+### Exception Error Handling:
+
+Exception Error Handling is show in this script, first with a custom exception called ‘RangeError’, which will show if the user. Inputs a number outside the given range. 
+
 !(https://github.com/LofiLogan/IntroToProg-Python-Mod07/blob/main/docs/Picture2.png)
-	It is followed later in the script by a try except that defines the situation in which a RangeError() will be activated. After the conditions are defined, the errors also have to be decided how they will appear on the screen in the situation that they are raised. 
+
+It is followed later in the script by a try except that defines the situation in which a RangeError() will be activated. After the conditions are defined, the errors also have to be decided how they will appear on the screen in the situation that they are raised. 
+
 !(https://github.com/LofiLogan/IntroToProg-Python-Mod07/blob/main/docs/Picture3.png)
-##Results
+
+## Results
+
 !(https://github.com/LofiLogan/IntroToProg-Python-Mod07/blob/main/docs/Picture4.png)
+
 !(https://github.com/LofiLogan/IntroToProg-Python-Mod07/blob/main/docs/Picture5.png)
